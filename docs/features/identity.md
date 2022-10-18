@@ -17,7 +17,7 @@ forward:
     - 'matrix-org'
 ```
 **NOTE:** You should carefully consider enabling this option, which is discouraged.  
-For more info, see the [relevant issue](https://github.com/kamax-matrix/ma1sd/issues/76).
+For more info, see the [relevant issue](https://github.com/ma1uta/ma1sd/issues/76).
 
 ## Invitations
 ### Expiration
